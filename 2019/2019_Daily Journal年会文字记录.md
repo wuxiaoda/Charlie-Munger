@@ -1,9 +1,13 @@
 ## 2019 年 Daily Journal 年会文字记录
 
 时间：2019 年 2 月 14 日
+
 英文文本来源：Richard Lewis，[网页链接](http://latticeworkinvesting.com/)
+
 中文来源：雪球用户RanRan
+
 第一部分：https://xueqiu.com/1173786903/122640780
+
 第二部分：https://xueqiu.com/1173786903/103864282
 
 
