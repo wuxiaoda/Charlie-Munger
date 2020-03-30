@@ -1,7 +1,9 @@
 ## 2020 年 Daily Journal 年会文字记录（第二部分）
 
 翻译：RanRan
+
 链接：https://xueqiu.com/1173786903/142774377
+
 来源：雪球
 
 
