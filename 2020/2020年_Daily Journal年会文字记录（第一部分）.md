@@ -9,7 +9,9 @@ Oliver Sung，junto.investments
 Adam Blum，valuewalk.com/
 
 翻译：RanRan
+
 链接：https://xueqiu.com/1173786903/142773994
+
 来源：雪球
 
 
