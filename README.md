@@ -140,3 +140,7 @@
 * [2020年Daily Journal年会文字记录（第一部分）.md](2020/2020年_Daily%20Journal年会文字记录（第一部分）.md)
 
 * [2020年Daily Journal年会文字记录（第二部分）.md](2020/2020年_Daily%20Journal年会文字记录（第二部分）.md)
+
+### 2021年
+
+* [2021年_Daily Journal年会.md](https://github.com/wuxiaoda/Charlie-Munger/blob/master/2021/2021%E5%B9%B4_Daily%20Journal%E5%B9%B4%E4%BC%9A.md)
