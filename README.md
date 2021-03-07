@@ -137,10 +137,12 @@
 
 ### 2020年
 
-* [2020年Daily Journal年会文字记录（第一部分）.md](2020/2020年_Daily%20Journal年会文字记录（第一部分）.md)
-
-* [2020年Daily Journal年会文字记录（第二部分）.md](2020/2020年_Daily%20Journal年会文字记录（第二部分）.md)
+* [2020年_Daily Journal年会文字记录（第一部分）.md](2020/2020年_Daily%20Journal年会文字记录（第一部分）.md)
+* [2020年_Daily Journal年会文字记录（第二部分）.md](2020/2020年_Daily%20Journal年会文字记录（第二部分）.md)
+* [2020年_芒格对话：谈人生人性与投资.md](2020/2020年_芒格对话：谈人生人性与投资.md)
+* 
+* * [2020年_芒格最新访谈：对中国进行了非常大的投资，从现在开始的一年，最糟糕的情况将会彻底地被抛在后面.md](2020/2020年_芒格最新访谈：对中国进行了非常大的投资，从现在开始的一年，最糟糕的情况将会彻底地被抛在后面.md)
 
 ### 2021年
 
-* [2021年Daily Journal年会.md](https://github.com/wuxiaoda/Charlie-Munger/blob/master/2021/2021%E5%B9%B4_Daily%20Journal%E5%B9%B4%E4%BC%9A.md)
+* [2021年_Daily Journal年会.md](2021年_Daily Journal年会.md)
