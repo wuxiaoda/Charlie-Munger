@@ -148,6 +148,6 @@
 
 ### 2022年
 
-* [2022年_Daily Journal年会（问题1-30）](2022/2022_Daily Journal 年会文字记录（问题1-30）.md)
-* [2022年_Daily Journal年会（问题31-40）](2022/2022_Daily Journal 年会文字记录（问题31-40）.md)
-* [2022年_Daily Journal年会（问题41-49）](2022/2022_Daily Journal 年会文字记录（问题41-49）.md)
+* [2022年_Daily Journal年会（问题1-30）](2022/2022_Daily%20Journal%20年会文字记录（问题1-30）.md)
+* [2022年_Daily Journal年会（问题31-40）](2022/2022_Daily%20Journal%20年会文字记录（问题31-40）.md)
+* [2022年_Daily Journal年会（问题41-49）](2022/2022_Daily%20Journal%20年会文字记录（问题41-49）.md)
