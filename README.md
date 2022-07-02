@@ -145,3 +145,9 @@
 ### 2021年
 
 * [2021年_Daily Journal年会](2021/2021年_DailyJournal年会.md)
+
+### 2022年
+
+* [2022年_Daily Journal年会（问题1-30）](2022/2022_Daily Journal 年会文字记录（问题1-30）.md)
+* [2022年_Daily Journal年会（问题31-40）](2022/2022_Daily Journal 年会文字记录（问题31-40）.md)
+* [2022年_Daily Journal年会（问题41-49）](2022/2022_Daily Journal 年会文字记录（问题41-49）.md)
